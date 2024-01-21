@@ -59,7 +59,7 @@
     grid-template-rows: 40px 1fr;
   }
   .routineBtns {
-    height: calc(100vh - 200px);
+    height: calc(100vh - 300px);
     display: flex;
     flex-direction: column;
     gap: 10px;
