@@ -28,7 +28,7 @@
   .containerPage {
     display: grid;
     grid-template-rows: 60px 1fr;
-    padding: 50px;
+    padding: 20px;
     width: 100vw;
     height: 100vh;
   }
@@ -76,7 +76,8 @@
     backdrop-filter: blur(5px);
     border-radius: 10px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 10px;
     align-items: flex-start;
     flex-direction: column;
     padding: 20px;
@@ -85,8 +86,8 @@
     overflow: hidden;
   }
   .routineBtn > div h2 {
-    font-size: 36px;
-    line-height: 36px;
+    font-size: 32px;
+    line-height: 32px;
     color: var(--bg-3);
     text-transform: uppercase;
     text-align: start;
