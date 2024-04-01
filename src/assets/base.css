@@ -1,7 +1,10 @@
 :root {
-  --bg-1: #8899ac;
-  --bg-2: #ebebeb;
+  --bg-1: #6d717a;
+  --bg-2: #515662;
   --bg-3: #ee0031;
-  --bg-4: #192734;
-  --bg-5: #15202b;
+  --bg-4: #3d3f4b;
+  --bg-5: #0d90ee;
+  --bg-6: #575c66; /* es el --bg-2 un poco mas claro */
+  --bg-7: #27282f; /* es el --bg-4 un poco mas oscuro */
+  --bg-8: #c10027; /* es el --bg-3 un poco mas oscuro */
 }
